@@ -3,7 +3,7 @@
 <img src="assets/nlw.svg">
 <br/><br/>
 Semana Next Level Week 2.0
-<br/>
+<br/><br/>
 
 <p align="center">
   <a href="#sobre">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
