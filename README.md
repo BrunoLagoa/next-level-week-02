@@ -2,7 +2,7 @@
 
 <img src="assets/nlw.svg">
 <br/><br/>
-Semana Next Level Week 1.0:
+Semana Next Level Week 2.0
 <br/>
 
 <p align="center">
